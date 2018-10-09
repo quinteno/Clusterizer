@@ -1,12 +1,12 @@
-# Instructions for Setup on Sulley
+
 
 1. Upload all files to server.
 2. Update php/connect.php to your server credentials. 
 ```
-	$connection = mysqli_connect("localhost" , "NID" , "password", "NID") or die(mysql_error());
+	$connection = mysqli_connect("localhost" , "username" , "password", "username") or die(mysql_error());
 ```
-3. Log onto [PHPMyAdmin](https://cah.ucf.edu/admin)
-4. Navigate to the database named after your NID and click on the SQL tab.
+3. Log onto [PHPMyAdmin]
+4. Navigate to the database and click on the SQL tab.
 5. Run the following SQL command:
 ```
 	CREATE TABLE `users_master` (
