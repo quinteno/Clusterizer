@@ -3,7 +3,7 @@
 		<div class="hero-content">
 			<h2>Switching the role of pursuit</h2>
 			<p class="description">
-				The aim is to revolutionize the job search market by modifying the seemingly oe way application process going from applicant to employee.
+				The aim is to revolutionize the job search market by modifying the seemingly one way application process going from applicant to employee.
 			</p>
 			<p>
 				<a href="login.php" class="btn">Join Today</a>
