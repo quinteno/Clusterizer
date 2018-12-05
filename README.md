@@ -1,4 +1,4 @@
-clusterizer.herokuapp.com
+https://clusterizer.herokuapp.com
 
 1. Upload all files to server.
 2. Update php/connect.php to your server credentials. 
